@@ -4,6 +4,10 @@
 ## Descripción
 Dashboard created in Power BI
 
+## Archivo
+[Descargar archivo de Power BI](nombre-del-archivo.pbix)
+
+
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
 [LinkedIn](www.linkedin.com/in/bryanburbanocarvajal)  
