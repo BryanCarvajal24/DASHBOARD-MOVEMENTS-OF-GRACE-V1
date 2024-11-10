@@ -5,7 +5,7 @@
 Dashboard created in Power BI
 
 ## Archivo
-[Descargar archivo de Power BI](nombre-del-archivo.pbix)
+[Descargar archivo de Power BI](DASHBOARD%20MOVEMENTS%20GRACE_PROTOTIPO1.pbix)
 
 
 ## Autor
