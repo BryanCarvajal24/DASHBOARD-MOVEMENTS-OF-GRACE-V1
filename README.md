@@ -9,7 +9,7 @@ Dashboard created in Power BI
 [LinkedIn](www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V1) 
+[https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V1](https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V1)
 
 ## Instalación
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el archivo de power BI
