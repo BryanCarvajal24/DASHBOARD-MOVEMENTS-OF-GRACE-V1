@@ -4,8 +4,10 @@
 ## Descripción
 Dashboard created in Power BI for Movements of grace (ONG)
 
-## Archivo
-[Descargar archivo de Power BI](DASHBOARD%20MOVEMENTS%20GRACE_PROTOTIPO1.pbix)
+## Archivos
+- [Descargar archivo de dashboard en Power BI](DASHBOARD%20MOVEMENTS%20GRACE_PROTOTIPO1.pbix)
+- [Descargar Dataset limpio](Dataset%20Organizado.xlsx)
+- [Descargar Dataset Sin Limpiar](Dataset%20Sin%20Limpiar.csv)
 
 
 ## Autor
