@@ -2,7 +2,7 @@
 
 
 ## Descripción
-Dashboard created in Power BI
+Dashboard created in Power BI for Movements of grace (ONG)
 
 ## Archivo
 [Descargar archivo de Power BI](DASHBOARD%20MOVEMENTS%20GRACE_PROTOTIPO1.pbix)
